@@ -23,13 +23,13 @@ This is a web scraping projects that will let us scrape/import information from 
     Ctrl+Shift+P
 ```
 
-Choose the created virtual environment
+    -Choose the created virtual environment
 
-3. Activate the venv
+3. Activate the virtual environment
 ```
     .venv/Scripts/activate
 ```
-4. Install the needed modules
+4. Install the needed modules through the terminal
 ```bash
 pip install requests
 ```
